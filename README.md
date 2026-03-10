@@ -16,11 +16,11 @@ For downloading the dataset, request access to:** Available soon.**
 @inproceedings{srock2024hqswap,
   title        = {HQSwap: A Challenging High-Resolution Face-Swap Dataset for Improved Manipulation Detection},
   author       = {Srock, Philipp and Tapia, Juan E. and Busch, Christoph},
-  booktitle    = {Proceedings of the IEEE International Conference on Biometrics: Theory, Applications, and Systems (BTAS)},
-  year         = {2024},
+  booktitle    = {IEEE International Workshop on Biometrics (IWBF2026), Côte d’Azur, EURECOM, April 23–24, 2026},
+  year         = {2026},
   pages        = {1--10},
   publisher    = {IEEE},
-  doi          = {10.1109/BTAS59272.2024.10732123}}
+  doi          = {soon}}
 ```
 
 ## Disclaimer
