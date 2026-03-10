@@ -6,6 +6,8 @@ The generalization capabilities to cross and unknown scenarios are one of the ma
 
 ## Dataset
 
+<img width="467" height="208" alt="Captura de pantalla 2026-03-10 a la(s) 9 57 13" src="https://github.com/user-attachments/assets/38928570-9f87-4f2a-820f-84e868563416" />
+
 ## Citation
 ```
 @inproceedings{srock2024hqswap,
