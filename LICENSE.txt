@@ -1,0 +1,27 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+This dataset, titled "HQ-Swap", is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+The dataset is derived from the Flickr-Faces-HQ (FFHQ) dataset, which was created by NVIDIA Corporation and released under the same CC BY-NC-SA 4.0 license. The original FFHQ dataset is based on images sourced from Flickr, each licensed under various terms including Creative Commons BY 2.0, BY-NC 2.0, Public Domain CC0 1.0, Public Domain Mark 1.0, or U.S. Government Works. The dataset itself (including metadata, scripts, and documentation) is licensed under CC BY-NC-SA 4.0 by NVIDIA.
+You are free to:
+
+    Share — copy and redistribute the dataset in any medium or format.
+    Adapt — remix, transform, or build upon the dataset.
+
+Under the following conditions:
+
+    Attribution: You must give appropriate credit to the original creators, by properly citing the given paper. Additionally, if you modify the dataset, you must indicate the nature of the changes made.
+    NonCommercial Use: This dataset may only be used for non-commercial, academic, or research purposes. Commercial use — including but not limited to training models for commercial products, selling the dataset or derived works, or using the data in profit-driven applications — is strictly prohibited.
+    ShareAlike: Any derivative works must be distributed under the same CC BY-NC-SA 4.0 license. No additional restrictions may be imposed on recipients.
+
+No Warranty:
+This dataset is provided "as is" without any warranties of any kind, either express or implied. The provider disclaims all liability for any damages, including but not limited to direct, indirect, incidental, or consequential damages, arising from the use of the dataset.
+Ethical Use and Responsibility:
+Given that HQ-Swap contains deepfake and face-swapped images, its use carries significant ethical and societal risks. Users are required to:
+
+    Use the dataset solely for research purposes in accordance with responsible AI principles.
+    Comply with institutional ethics review board (IRB) or ethics committee guidelines.
+    Avoid any use that may lead to deception, identity manipulation, harassment, or harm to individuals or groups.
+    Refrain from distributing or deploying models trained on this dataset in real-world applications without rigorous evaluation and transparency.
+
+For the original paper:
+Tero Karras, Samuli Laine, Timo Aila. "A Style-Based Generator Architecture for Generative Adversarial Networks." 2019.
+https://arxiv.org/abs/1812.04948
