@@ -1,8 +1,9 @@
 # HDA-HQSwap
-This is the official repository for the dateset HQSwap created by da/sec at HDA
+This is the official repository for the publication "HQSwap: A Challenging High-Resolution Face-Swap Dataset for Improved Manipulation Detection" created by da/sec at HDA
 
 ## Abstract
 ## Dataset
+
 ## Citation
 ```
 @inproceedings{srock2024hqswap,
@@ -12,8 +13,7 @@ This is the official repository for the dateset HQSwap created by da/sec at HDA
   year         = {2024},
   pages        = {1--10},
   publisher    = {IEEE},
-  doi          = {10.1109/BTAS59272.2024.10732123}
-}
-
+  doi          = {10.1109/BTAS59272.2024.10732123}}
 ´´´
+
 ## Disclaimer
