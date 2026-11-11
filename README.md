@@ -44,3 +44,8 @@ Any use of this dataset must comply with ethical guidelines and the terms of use
 The dataset contains synthetic or manipulated facial images generated via face-swapping techniques. These images are not representative of real individuals and should not be used to infer identity, consent, or personal attributes.
 For questions, collaboration, or clarification regarding the dataset, please contact:
 Philipp Srock (philipp.srock@h-da.de) and Juan E. Tapia (juan.tapia-farias@h-da.de) at the Department of Computer Science, Hochschule Darmstadt, University of Applied Sciences, Germany.
+
+## ACKNOWLEDGMENT
+
+This research work has been partially funded by the European Union (EU) under G.A. no. 101121280 (EINSTEIN) and CarMen (101168325), and the German Federal Ministry
+of Education and Research and the Hessian Ministry of Higher Education, Research, Science and the Arts within their joint support of the National Research Center for Applied Cybersecurity ATHENE
